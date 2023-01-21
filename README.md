@@ -1,2 +1,1 @@
-# wiki
-Private Wiki
+Wiki with useful stuff.
